@@ -17,4 +17,8 @@ Enter the "id" number into keyboard.sh
 
 You can then toggle the keyboard on and off by running the script.
 
-This can be done with the .desktop file, changing hte location to the location of the script. 
+This can be done with the .desktop file, changing the location to the location of the script. 
+
+Or for example, added to your taskbar
+
+![image](https://github.com/dm2912/catproof_keyboard/assets/25871666/817e20fe-5bd4-420a-b5e5-76a443f2be61)
