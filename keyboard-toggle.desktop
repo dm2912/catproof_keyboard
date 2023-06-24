@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Keyboard Toggle
+Icon=gnome-dev-keyboard
+Exec=bash keyboard.sh
+Path=/mnt/Data/Scripts/ # EDIT THIS PATH
+Actions=
+Categories=Utilities;Utility;
