@@ -1,7 +1,7 @@
 #!/bin/bash
 
-Icon="/mnt/Data/Scripts/kb-on.png"
-Icoff="/mnt/Data/Scripts/kb-off.png"
+Icon="./kb-on.png"
+Icoff="./kb-off.png"
 fconfig=".keyboard" 
 id=12
 
