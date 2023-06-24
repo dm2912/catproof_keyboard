@@ -3,7 +3,7 @@ quick script to turn keyboard off to kittenproof
 
 In Ubuntu or Ubuntu derivatives
 
-Copy keyboard.sh and the two image files to the location of your choise
+Copy keyboard.sh and the two image files to the location of your choice
 
 In a terminal window
 
