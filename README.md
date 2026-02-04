@@ -1,7 +1,7 @@
 # catproof_keyboard
 quick script to turn keyboard off to kittenproof
 
-In Ubuntu or Ubuntu derivatives
+In Ubuntu or Ubuntu derivatives with X11 window manager
 
 Copy keyboard.sh and the two image files to the location of your choice
 
